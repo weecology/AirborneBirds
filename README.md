@@ -10,7 +10,7 @@ The train and test folders contain images and annotations with folders for each 
 
 * A .tif file with RGB sensor data
 * A .shp file bounding box annotations and a 'Species' column giving the label for each box
-* A .csv file
+* A .csv file with collection metadata.
 
 # Tasks
 
