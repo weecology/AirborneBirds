@@ -2,6 +2,8 @@
 
 The goal of the Airborne birds benchmark is to develop cross-site, cross-taxa and, cross-scale models for object detection and species classification of birds in airborne imagery. 
 
+![](www/panel.png)
+
 # Format
 
 The train and test folders contain images and annotations with folders for each data sample. Folder contests
